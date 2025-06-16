@@ -2,7 +2,7 @@
 //reverse the string inside the funtion =>"trendnologies".=> X
 //iterate 0 to 10 even numbers inside the functions => loop
 
-let str = "trendnologies"
+let str = "sangeetha"
 let rev = str.split (" ").reverse().join("")
 console.log.apply(rev);
 
